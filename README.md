@@ -8,6 +8,15 @@
 
 This is a full-stack web application built using ASP.NET Core API and React. The application allows users to view all the available books in the library and create their own list of favorite books after signing in as a user. Librarians can log in to edit, delete or add new books to the library, as well as add, edit or delete users.
 
+## Tech Stack and Tools
+"The project utilized a full-stack approach with the following technologies:
+
+Frontend: React, Bootstrap.
+Backend: ASP.NET Core for API development.
+Database: SQL Server for storing user and book data.
+Third-Party APIs: Google Books API for fetching book information.
+Tools: GitHub for version control and project management, and Postman for testing APIs."
+
 ## Firebase Integration
 
 Firebase is used in this project for user authentication and real-time database functionality.
